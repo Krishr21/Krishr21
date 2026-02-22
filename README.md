@@ -1,5 +1,15 @@
 # Hi, I’m Krish Ruparel
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/krish-ruparel-456702250/">
+    <img src="https://img.shields.io/badge/LinkedIn-Krish%20Ruparel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:krishruparel.career@gmail.com">
+    <img src="https://img.shields.io/badge/Email-krishruparel.career%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Krishr21&style=for-the-badge&color=blue" />
+</p>
+
 AI + backend-focused builder working on **Machine Learning**, **FinTech**, and **Automation** — shipping production-ready systems and experimenting with **LLM integrations**.
 
 - Building: AI-powered apps (ML/LLM), FinTech systems, automation tooling
@@ -21,6 +31,12 @@ AI + backend-focused builder working on **Machine Learning**, **FinTech**, and *
 Python • Java • C++ • Go • JavaScript • FastAPI • Flask • React • Next.js • Docker • Kubernetes • AWS • Azure • Google Cloud • MongoDB • MySQL
 
 ## GitHub
-![](https://github-readme-stats.vercel.app/api?username=Krishr21&theme=transparent&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Krishr21&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishr21&theme=transparent&hide_border=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishr21&theme=transparent&hide_border=true" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Krishr21&theme=transparent&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishr21&theme=transparent&hide_border=true&layout=compact" height="165" />
+</p>
