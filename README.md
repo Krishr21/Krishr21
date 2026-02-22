@@ -23,13 +23,25 @@ AI + backend-focused builder working on **Machine Learning**, **FinTech**, and *
 | **[3D Portfolio](https://github.com/Krishr21/3d_portfolio)** • [Live](https://3d-portfolio-peach-one.vercel.app) | Interactive 3D personal portfolio website | JavaScript |
 | **[BhojanKaksha](https://github.com/Krishr21/BhojanKaksha)** | Food / restaurant web app | PHP |
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/krish-ruparel-456702250/
-- Email: krishruparel.career@gmail.com
-
 ## Tech
-Python • Java • C++ • Go • JavaScript • FastAPI • Flask • React • Next.js • Docker • Kubernetes • AWS • Azure • Google Cloud • MongoDB • MySQL
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Krishr21&theme=transparent&hide_border=true" height="165" />
