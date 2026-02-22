@@ -31,5 +31,8 @@ AI + backend-focused builder working on **Machine Learning**, **FinTech**, and *
 Python • Java • C++ • Go • JavaScript • FastAPI • Flask • React • Next.js • Docker • Kubernetes • AWS • Azure • Google Cloud • MongoDB • MySQL
 
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Krishr21&theme=transparent&hide_border=true" height="165" />
+</p>
 
 
