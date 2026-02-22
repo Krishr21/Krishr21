@@ -30,10 +30,6 @@ AI + backend-focused builder working on **Machine Learning**, **FinTech**, and *
 ## Tech
 Python • Java • C++ • Go • JavaScript • FastAPI • Flask • React • Next.js • Docker • Kubernetes • AWS • Azure • Google Cloud • MongoDB • MySQL
 
-## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishr21&theme=transparent&hide_border=true" height="165" />
-</p>
 
 
