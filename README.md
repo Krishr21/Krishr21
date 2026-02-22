@@ -17,14 +17,16 @@ AI + backend-focused builder working on **Machine Learning**, **FinTech**, and *
 - Open to: ML/AI collaborations, hackathons, building MVPs end-to-end
 
 ## Featured work
-<p align="center">
+
+<div align="center">
+
 | Project | What it is | Stack |
 |---|---|---|
 | **[VisionVault](https://github.com/Krishr21/VisionVault)** | Computer-vision / AI project hub (in progress) | Python |
 | **[3D Portfolio](https://github.com/Krishr21/3d_portfolio)** • [Live](https://3d-portfolio-peach-one.vercel.app) | Interactive 3D personal portfolio website | JavaScript |
 | **[BhojanKaksha](https://github.com/Krishr21/BhojanKaksha)** | Food / restaurant web app | PHP |
-</p>
 
+</div>
 ## Tech
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
