@@ -37,6 +37,4 @@ Python • Java • C++ • Go • JavaScript • FastAPI • Flask • React �
   <img src="https://nirzak-streak-stats.vercel.app/?user=Krishr21&theme=transparent&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishr21&theme=transparent&hide_border=true&layout=compact" height="165" />
-</p>
+
